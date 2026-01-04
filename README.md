@@ -1,4 +1,9 @@
 # Build an Image Captioning Tool for Visually Impaired Users with Gemini
+**Check this Live hosted frontend :** https://build-image-captioning-using-gemini.netlify.app/
+**Backend is also hosted here:** https://build-image-captioning-tool-using-gemini.onrender.com
+
+
+
 This is the repository for the LinkedIn Learning course Build an Image Captioning Tool for Visually Impaired Users with Gemini. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
