@@ -40,7 +40,7 @@ async function getCaptionForImage(imageFile){
     try {
         displayCaption("Processing Caption Generation...");
         
-        let response = await axios.post('http://localhost:1330/generate-caption ', formData, {
+        let response = await axios.post('https://build-image-captioning-tool-using-gemini.onrender.com/generate-caption', formData, {
             headers: {
                 'Content-Type': 'multipart/form-data'
             }
